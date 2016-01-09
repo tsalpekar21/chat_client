@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (1.6.4)
+    sass (3.4.18)
+    vienna (0.4.1)
+      rack (~> 1.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  sass
+  vienna
